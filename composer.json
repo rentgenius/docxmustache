@@ -1,5 +1,5 @@
 {
-    "name": "wrklst/docxmustache",
+    "name": "rentgenius/docxmustache",
     "description": "docx template manipulation class, based on mustache templating language",
     "keywords": ["laravel", "docx", "openxml", "template", "mustache", "php"],
     "require": {
@@ -10,7 +10,7 @@
         "mustache/mustache": "^2.11",
         "intervention/image": "^2.3"
     },
-    "homepage" : "https://github.com/wrklst/docxmustache",
+    "homepage" : "https://github.com/rentgenius/docxmustache",
     "license": "MIT",
     "authors": [
         {
